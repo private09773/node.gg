@@ -3,14 +3,14 @@
 **Build • Share • Join**
 </div>
 
-**Pages**
-![Homepage](https://www.flaticon.com/free-icon-font/home_3917033) **[Homepage](INDEX.md)
-![About Us](https://www.flaticon.com/free-icon-font/exclamation_3917663) **[About node.gg](ABOUT.md)
-![Contact & Socials](https://www.flaticon.com/free-icon-font/user-add_3917698) **[Contact The Team](CONTACT.md)
-![Tiers](https://www.flaticon.com/free-icon-font/dollar_3916676) **[Our Excellent Tiers](TIER.md)
-![TOS](https://www.flaticon.com/free-icon-font/bank_3914398) **[Terms of Service](TOS.md)**
-![Legal](https://www.flaticon.com/free-icon-font/book-alt_3914149)** **[Legal & Privacy Policy](LPP.md)**
----
+**Navigation and Forms**
+[Homepage](INDEX.md)
+[About node.gg](ABOUT.md)
+[Contact The Team](CONTACT.md)
+[Our Excellent Tiers](TIER.md)
+[Terms of Service](TOS.md)
+[Legal & Privacy Policy](LPP.md)
+
 **Other Stuff**
 -# Coming Soon.
 
